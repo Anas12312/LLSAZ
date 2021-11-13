@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "2vp/oeOss6C3IcSPU2hDoNe3jEAo9wd2PepdcFCBW5h9j7y/oiz4BfH7o0GAmaNDKdhDWL1sT+6fnp8ZU6wVIg==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\LLSv2 (1)\\LLSv2\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USCS\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.11\\microsoft.aspnetcore.cryptography.internal.5.0.11.nupkg.sha512",
+    "C:\\Users\\USCS\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.11\\microsoft.aspnetcore.cryptography.keyderivation.5.0.11.nupkg.sha512",
+    "C:\\Users\\USCS\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\USCS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\USCS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\USCS\\.nuget\\packages\\microsoft.extensions.identity.core\\5.0.11\\microsoft.extensions.identity.core.5.0.11.nupkg.sha512",
+    "C:\\Users\\USCS\\.nuget\\packages\\microsoft.extensions.identity.stores\\5.0.11\\microsoft.extensions.identity.stores.5.0.11.nupkg.sha512",
+    "C:\\Users\\USCS\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\USCS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\USCS\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\USCS\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
